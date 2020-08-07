@@ -1,16 +1,14 @@
-# flutterapp2
+# JustStructureApp
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This app is base on Dart and just show a flutter structure app . All class and variables not work (show case)
+# specific classes are ::
+ # base section
+ base--base_StateFull_view
+ base--base_presenter
+ base--baseInterface
+ # mvp section 
+ Ui--sampleForm_interface.dart
+ Ui--sampleForm_presenter.dart
+ Ui--sampleFormScreen.dart 
+ # widget section 
+utils--BottomSheetDiffrence
